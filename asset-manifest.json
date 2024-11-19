@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paytmcra/static/css/main.cf890fdb.css",
+    "main.js": "/paytmcra/static/js/main.cadc7f10.js",
+    "index.html": "/paytmcra/index.html",
+    "main.cf890fdb.css.map": "/paytmcra/static/css/main.cf890fdb.css.map",
+    "main.cadc7f10.js.map": "/paytmcra/static/js/main.cadc7f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.cadc7f10.js"
+  ]
+}
